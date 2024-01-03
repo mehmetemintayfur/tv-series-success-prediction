@@ -1,0 +1,9 @@
+01/03/2024 10:46:22 PM Dizi linklerinin bulundugu tablo wikipedia uzerinden cekildi.
+01/03/2024 10:54:54 PM Bütün dizi bilgileri başariyla cekildi.
+01/03/2024 10:56:15 PM Gosterim süresi ortalama deger ile dolduruldu.
+01/03/2024 10:56:44 PM Bos satirlar tablodan kaldirildi.
+01/03/2024 10:58:12 PM Random Forest Modeli egitildi
+01/03/2024 11:00:57 PM Ada Boost Modeli egitildi
+01/03/2024 11:02:03 PM Decision Tree Modeli egitildi
+01/03/2024 11:04:42 PM LightGBM Modeli egitildi
+01/03/2024 11:07:38 PM NaiveBayes Modeli egitildi
