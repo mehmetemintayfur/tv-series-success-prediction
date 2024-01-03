@@ -1,0 +1,2107 @@
+Caner Kurtaran:2.6666666666666665
+Burak Sevinç:1.1818181818181819
+Burak Sergen:1.8333333333333333
+Yurdaer Okur:1.7
+Erdem Kaynarca:1.0
+Demet Özdemir:1.4285714285714286
+Engin Akyürek:1.625
+Kývanç Tatlýtuð:1.6666666666666667
+Serenay Sarýkaya:2.142857142857143
+Fikret Kuþkan:1.5
+Özge Borak:1.2
+Pýnar Deniz:1.75
+Uraz Kaygýlaroðlu:1.8181818181818181
+Uður Güneþ:1.6666666666666667
+Gülsim Ali:2.0
+Aytaç Þaþmaz:1.6
+Þifa Nur Gül:1.0
+Aslý Enver:2.0
+Mehmet Günsür:1.8
+Berna Koraltürk:1.5
+Ümit Kantarcýlar:1.2
+Selda Özbek:1.0
+Ýlayda Aliþan:1.3333333333333333
+Hande Soral:1.8571428571428572
+Görkem Sevindik:1.25
+Burak Tozkoparan:1.5
+Burak Deniz:1.2857142857142858
+Hande Erçel:1.1428571428571428
+Keremcem:1.7142857142857142
+Merih Öztürk:1.0
+Kaan Taþaner:1.5714285714285714
+Yaðmur Öztürk:1.0
+Merve Nur Bengi:1.0
+Cavit Çetin Güner:1.0
+Erdal Özyaðcýlar:3.25
+Onur Buldu:1.0
+Melis Babadað:2.0
+Birce Akalay:1.4615384615384615
+Mert Fýrat:1.3333333333333333
+Melisa Sözen:1.1666666666666667
+Eylül Tumbar:1.0
+Aslý Ýnandýk:1.0
+Meriç Aral:1.25
+Erol Babaoðlu:1.0
+Deniz Celiloðlu:1.6666666666666667
+Nilperi Þahinkaya:2.0
+Murat Kýlýç:1.0
+Salih Bademci:1.5
+Hazal Subaþý:1.5714285714285714
+Ozan Dolunay:1.0
+Kubilay Aka:1.2
+Deniz Iþýn:1.8333333333333333
+Yasemin Allen:1.1666666666666667
+Emre Kýnay:1.105263157894737
+Caner Topçu:1.0
+Sümeyye Aydoðan:1.3333333333333333
+Atakan Hoþgören:1.0
+Ali Erkazan:2.2
+Cemal Hünal:1.875
+Alperen Duymaz:1.1666666666666667
+Melisa Aslý Pamuk:1.2857142857142858
+Ahmet Kayakesen:1.0
+Rüya Helin Demirbulut:1.0
+Altan Erkekli:1.875
+Murat Akkoyunlu:1.0
+Mehtap Bayri:2.0
+Berkay Veli:1.0
+Mihriban Er:1.0
+Kahraman Sivri:1.0
+Murat Ünalmýþ:1.7777777777777777
+Melis Sezen:1.1666666666666667
+Mehmet Özgür:1.2857142857142858
+Kerem Arslanoðlu:1.3333333333333333
+Þebnem Bozoklu:1.1666666666666667
+Tolga Tekin:1.0
+Deniz Can Aktaþ:1.2
+Miray Daner:1.4
+Esra Dermancýoðlu:1.6
+Asuman Dabak:1.8888888888888888
+Hilmi Cem Ýntepe:1.0
+Ogün Kaptanoðlu:1.75
+Batuhan Demir:1.0
+Deniz Çatalbaþ:1.0
+Zeynep Tuðçe Bayat:1.0
+Serkan Çayoðlu:1.5
+Ayça Ayþin Turan:1.5714285714285714
+Mehmet Aykaç:1.5
+Türkü Su Demirel:1.0
+Ali Yasin Özgemen:1.0
+Kadir Polatçý:1.0
+Müfit Kayacan:2.6666666666666665
+Jessica May:1.75
+Hasan Denizyaran:1.5
+Hakan Yýlmaz:2.0
+Selen Soyder:1.75
+Enes Koçak:1.0
+Cem Gelinoðlu:1.0
+Özge Özacar:1.0
+Cenan Adýgüzel:1.0
+Serdar Orçin:1.3333333333333333
+Miraç Sözer:1.0
+Murat Garipaðaoðlu:1.0
+Emre Baþer:1.0
+Hakan Vanlý:2.6666666666666665
+Ayça Bingöl:1.5
+Ceren Moray:1.6666666666666667
+Cansu Tosun:1.2857142857142858
+Serkan Þenalp:1.0
+Gizem Arýkan:1.0
+Korhan Herduran:1.0
+Cemil Þahin:1.0
+Burcu Özberk:1.0
+Gökhan Alkan:1.6666666666666667
+Selin Þekerci:1.2222222222222223
+Özgün Karaman:1.5
+Ekin Türkmen:1.75
+Berk Hakman:1.3333333333333333
+Elifcan Ongurlar:1.25
+Anýl Ýlter:1.3333333333333333
+Kaan Alpdayý:1.0
+Deniz Bolýþýk:1.5
+Mehmet Ali Kaptanlar:1.0
+Ercan Kesal:2.3333333333333335
+Berkay Ateþ:2.0
+Çaðlar Ertuðrul:1.7142857142857142
+Merve Dizdar:1.5
+Baran Akbulut:1.5
+Baki Çiftçi:1.0
+Kenan Çoban:1.0
+Uður Pektaþ:1.0
+Ali Ersan Duru:1.0
+Öykü Çelik:1.6666666666666667
+Mehmet Emin Kadýhan:1.0
+Mert Carim:1.0
+Sera Tokdemir:2.0
+Caner Cindoruk:1.75
+Damla Sönmez:1.4545454545454546
+Serkan Altunorak:1.1666666666666667
+Can Nergis:1.3333333333333333
+Tansu Taþanlar:1.0
+Ahmet Varlý:1.3333333333333333
+Bülent Ýnal:1.7272727272727273
+Devrim Özkan:1.5
+Kaan Yýldýrým:1.25
+Feyyaz Duman:1.5
+Deniz Baysal Yurtcu:2.0
+Erkan Kolçak Köstendil:1.4285714285714286
+Sarp Apak:2.8
+Þinasi Yurtsever:2.0
+Selahattin Paþalý:1.6666666666666667
+Gökçe Bahadýr:2.0
+Barýþ Falay:1.6666666666666667
+Giray Altýnok:1.6666666666666667
+Hüseyin Avni Danyal:1.2
+Ceyda Düvenci:1.7142857142857142
+Þükrü Özyýldýz:1.0
+Ýlhan Þen:1.0
+Özge Yaðýz:1.75
+Burak Berkay Akgül:1.0
+Gizem Karaca:1.2222222222222223
+Cemre Baysel:1.0
+Asude Kalebek:1.5
+Özge Özpirinçci:1.5
+Demet Akbað:1.0
+Metin Akdülger:1.7142857142857142
+Burçin Terzioðlu:1.8
+Onur Tuna:2.125
+Hazal Türesan:1.3333333333333333
+Baþak Gümülcinelioðlu:1.0
+Çaðrý Çýtanak:1.0
+Tamer Karadaðlý:1.75
+Nefise Karatay:1.0
+Demir Karahan:1.6666666666666667
+Uður Yücel:1.3636363636363635
+Erkan Petekkaya:1.8461538461538463
+Cemal Toktaþ:1.2857142857142858
+Hilal Altýnbilek:2.5
+Yiðit Özþener:1.4615384615384615
+Serkan Keskin:1.7142857142857142
+Nesrin Cavadzade:1.75
+Sumru Yavrucuk:1.4
+Halil Babür:2.0
+Ezgi Eyüboðlu:2.4
+Sait Genay:1.0
+Furkan Palalý:1.8333333333333333
+Pelin Karahan:2.2
+Eren Hacýsalihoðlu:1.0
+Ceyda Ateþ:2.0
+Ýsmail Hacýoðlu:1.4666666666666666
+Elif Kurtaran:2.0
+Tarýk Papuççuoðlu:1.6
+Çaðatay Ulusoy:2.142857142857143
+Þifanur Gül:1.6666666666666667
+Þevket Çoruh:4.4
+Timuçin Esen:1.25
+Genco Özak:1.0
+Çaðan Efe Ak:1.5
+Leya Kýrþan:2.0
+Tuana Naz Tiryaki:2.0
+Cemrehan Karakaþ:1.0
+Yaðýz Kýlýnç:2.0
+Deniz Erayvaz:2.0
+Berat Efe Parlar:1.5
+Haluk Bilginer:1.4615384615384615
+Yasemin Kay Allen:1.5
+Ethan Kai:1.0
+Öykü Çakar:1.0
+Gül Onat:2.0
+Kutsi:1.8333333333333333
+Hazal Filiz Küçükköse:1.0
+Aslý Tandoðan:1.5555555555555556
+Nurgül Yeþilçay:1.625
+Selim Bayraktar:1.3333333333333333
+Rabia Soytürk:1.0
+Emre Kývýlcým:1.0
+Bennu Yýldýrýmlar:2.0
+Emre Bey:2.0
+Buse Meral:1.0
+Kerem Bürsin:1.1428571428571428
+Hafsanur Sancaktutan:1.2
+Halit Özgür Sarý:2.0
+Simay Barlas:1.25
+Dolunay Soysert:1.25
+Bertan Asllani:1.5
+Sena Þahin:1.0
+Taygun Sungar:1.0
+Elif Gülhan:1.0
+Furkan Kapsýz:1.0
+Bora Akkaþ:1.0
+Ecem Karavus:2.0
+Selin Genç:1.0
+Taner Ölmez:1.8333333333333333
+Bülent Þakrak:1.0
+Sercan Badur:1.0
+Birand Tunca:1.0
+Öykü Naz Altay:1.5
+Nilsu Berfin Aktaþ:1.0
+Mustafa Mert Koç:1.5
+Efekan Can:1.0
+Burak Serdar Þanal:1.4285714285714286
+Mert Turak:2.0
+Burak Alkaþ:2.5
+Ali Barkýn:1.25
+Beren Gökyýldýz:1.0
+Sezin Bozacý:1.0
+Onur Dikmen:1.0
+Birkan Sokullu:1.5555555555555556
+Ebru Þahin:2.0
+Yunus Emre Yýldýrýmer:2.8
+Gizem Güneþ:1.0
+Oktay Çubuk:1.0
+Nil Keser:1.0
+Vahide Perçin:2.25
+Mustafa Uðurlu:1.1428571428571428
+Ýrem Helvacýoðlu:1.3333333333333333
+Selin Yeninci:1.0
+Engin Öztürk:1.4
+Olgun Toker:1.25
+Engin Günaydýn:2.3333333333333335
+Derya Karadaþ:2.0
+Ecem Erkek:1.0
+Barýþ Yýldýz:1.0
+Seda Türkmen:1.0
+Efe Tunçer:1.0
+Elit Andaç Çam:1.0
+Emre Taþtekin:1.0
+Hakan Dinçkol:2.0
+Ýlayda Orkut:2.0
+Eda Elif Baþlamýþlý:2.0
+Furkan Okumuþ:2.0
+Zeynep Melis Girþen:2.0
+Erdem Adilce:2.0
+Tolga Sarýtaþ:1.5
+Özlem Türkad:3.0
+Hakan Boyav:2.0
+Suzan Akbelge:1.0
+Can Kolukýsa:1.0
+Erman Saban:1.0
+Bedia Begovska:1.0
+Tolgahan Sayýþman:1.875
+Timur Acar:1.6666666666666667
+Ufuk Özkan:1.7777777777777777
+Melisa Döngel:1.0
+Arif Piþkin:1.0
+Hasan Küçükçetin:2.25
+Bahadýr Yeniþehirlioðlu:2.3333333333333335
+Oktay Kaynarca:2.2
+Ebru Özkan:1.4545454545454546
+Ozan Akbaba:2.75
+Ýsmail Demirci:1.75
+Pelin Akil:1.9090909090909092
+Seray Kaya:1.75
+Berk Oktay:2.3
+Gizem Ünsal:1.0
+Alina Boz:1.4
+Taro Emir Tekin:1.0
+Nazan Kesal:1.5714285714285714
+Selin Sezgin:3.0
+Erol Gedik:1.0
+Gece Iþýk Demirel:1.0
+Rýza Kocaoðlu:1.75
+Erdal Beþikçioðlu:1.3333333333333333
+Ýnanç Konukçu:2.0
+Berkan Þal:2.0
+Engin Altan Düzyatan:1.6363636363636365
+Elçin Sangu:1.3333333333333333
+Mert Yazýcýoðlu:1.1666666666666667
+Aslýhan Malbora:1.3333333333333333
+Nur Fettahoðlu:1.875
+Necip Memili:1.6666666666666667
+Bahar Þahin:1.2
+Ege Kökenli:1.0
+Buðra Gülsoy:1.2
+Büþra Develi:1.2
+Cem Yýlmaz:1.0
+Zafer Algöz:1.3636363636363635
+Ezgi Mola:1.5
+Çaðlar Çorumlu:1.5555555555555556
+Cenk Torun:3.3333333333333335
+Mahassine Merabet:2.0
+Hilal Anay:2.0
+Neslihan Atagül:1.6666666666666667
+Kadir Doðulu:1.5555555555555556
+Tuba Ünsal:1.2
+Sarp Levendoðlu:1.9166666666666667
+Ertan Saban:1.0
+Özge Özberk:1.375
+Sinem Ünsal:1.25
+Gülper Özdemir:1.2
+Sude Zülal Güler:1.0
+Binnur Kaya:1.7142857142857142
+Leyla Tanlar:1.0
+Zeynep Çamcý:1.7777777777777777
+Burak Dakak:1.0
+Yýldýray Þahinler:3.0
+Özge Gürel:1.125
+Aybüke Pusat:1.75
+Yeþim Ceren Bozoðlu:2.4
+Yusuf Çim:1.0
+Ekin Mert Daymaz:1.0
+Serkay Tütüncü:1.0
+Ulaþ Tuna Astepe:1.5
+Hazar Ergüçlü:1.375
+Tansel Öngel:1.1666666666666667
+Hande Doðandemir:1.0
+Alican Yücesoy:1.25
+Erkan Avcý:2.75
+Musa Uzunlar:1.4
+Nisa Sofia Aksongur:1.0
+Elçin Zehra Ýrem:1.0
+Berk Bakioðlu:1.0
+Yaðmur Çokgenç:1.0
+Ceren Benderlioðlu:1.0
+Ýpek Filiz Yazýcý:1.5
+Hatice Þendil:1.5
+Sera Kutlubey:1.6666666666666667
+Hakan Eratik:1.0
+Emine Ün:1.0
+Nur Erkul:1.0
+Barýþ Baktaþ:2.0
+Yaðmur Yüksel:2.0
+Göksel Kayahan:2.0
+Ekrem Aral Tuna:2.0
+Furkan Andýç:1.2
+Barýþ Kýlýç:2.0
+Evrim Alasya:1.25
+Sýla Türkoðlu:3.0
+Müjde Uzman:2.4
+Sibel Taþçýoðlu:2.0
+Settar Tanrýöðen:1.4
+Doðukan Güngör:2.0
+Ýrfan Ballý:3.0
+Salih Ýnci:3.0
+Cengizhan Yurdutek:3.0
+Ömer Varol:3.0
+Mustafa Yýlmaz:3.0
+Emrullah Sürmeli:3.0
+Dilan Çiçek Deniz:1.6
+Ýbrahim Çelikkol:1.6666666666666667
+Þehsuvar Aktaþ:2.3333333333333335
+Gizem Sevim:1.0
+Songül Öden:1.5555555555555556
+Canan Ergüder:1.5
+Serhat Teoman:1.3333333333333333
+Nihal Yalçýn:1.0
+Tuðçe Açýkgöz:2.0
+Sezin Akbaþoðullarý:1.2857142857142858
+Rojda Demirer:1.5
+Dilin Döðer:1.0
+Ali Öner:1.0
+Cengiz Orhonlu:1.0
+Hazal Kaya:1.5
+Tansu Biçer:1.0
+Ezgi Gör:1.0
+Burak Çelik:1.0
+Sevda Erginci:1.7142857142857142
+Gökçe Akyýldýz:1.6666666666666667
+Burak Yörük:1.0
+Osman Sonant:1.7
+Berk Cankat:1.0
+Damla Colbay:1.5
+Sarp Akkaya:1.4285714285714286
+Kerem Alýþýk:2.0
+Pelin Ermiþ:1.0
+Hazal Adýyaman:1.0
+Osman Aydýn:1.0
+Tayanç Ayaydýn:1.6666666666666667
+Begüm Birgören:1.2
+Kaan Mirac Sezen:1.0
+Akýn Akýnözü:1.8
+Bensu Soral:1.0
+Talat Bulut:3.0
+Öner Erkan:2.2
+Reha Özcan:2.0
+Özgü Kaya:1.5
+Almila Ada:1.6666666666666667
+Melisa Berberoðlu:2.0
+Berker Güven:2.5
+Gökberk Demirci:3.5
+Ýclal Aydýn:2.0
+Kerem Özdoðan:2.0
+Afra Saraçoðlu:1.8
+Mert Ramazan Demir:1.6666666666666667
+Çetin Tekindor:1.6666666666666667
+Cihan Ünal:1.6666666666666667
+Murat Han:1.6666666666666667
+Erkan Meriç:2.5
+Alp Navruz:1.6
+Mesut Akusta:2.3
+Tuba Büyüküstün:1.5454545454545454
+Seda Bakan:1.4285714285714286
+Boncuk Yýlmaz:1.0
+Kürþat Alnýaçýk:2.2
+Cengiz Bozkurt:2.2
+Birkan Akyol:1.0
+Emrah Kaman:2.0
+Burak Satýbol:1.0
+Þenay Gürler:2.142857142857143
+Barýþ Arduç:2.142857142857143
+Fahriye Evcen:1.8571428571428572
+Kayra Zabcý:2.0
+Serhat Tutumluer:1.4285714285714286
+Barýþ Baðcý:1.75
+Özgür Çevik:1.7142857142857142
+Erdinç Gülener:1.8
+Uygar Özçelik:2.0
+Devrim Saltoðlu:2.3333333333333335
+Hatice Aslan:1.8888888888888888
+Serra Arýtürk:1.0
+Güven Murat Akpýnar:2.5
+Murat Yýldýrým:1.7777777777777777
+Melek Baykal:2.0
+Salih Kalyon:1.5714285714285714
+Ýdris Nebi Taþkan:1.4
+Aslý Sümen:1.0
+Yetkin Dikinciler:1.125
+Seçkin Özdemir:1.0909090909090908
+Hasan Can Kaya:1.0
+Günay Karacaoðlu:1.125
+Tuna Orhan:1.0
+Ahmet Kural:1.5
+Mehmet Ozan Dolunay:1.5
+Deniz Tezuysal:2.0
+Vildan Atasever:1.3636363636363635
+Sergen Deveci:2.0
+Kaan Yalçýn:1.0
+Javohir Zokirov:1.0
+Gülenay Kalkan:1.0
+Yulduz Radjabova:1.0
+Rano Þodiyeva:1.0
+Rayhan Ulesanova:1.0
+Tohir Saidov:1.0
+Saide Rametova:1.0
+Sezgin Erdemir:1.0
+Ferhat Yýlmaz:1.0
+Murat Arkýn:1.0
+Emir Benderlioðlu:1.25
+Cansel Elçin:1.3
+Doðan Bayraktar:1.0
+Ahmet Pýnar:1.0
+Deniz Uður:1.4
+Tuðba Sunguroðlu:1.0
+Burcu Biricik:1.8571428571428572
+Feyyaz Þerifoðlu:3.0
+Selma Ergeç:2.1666666666666665
+Enis Arýkan:3.0
+Cihangir Ceyhan:3.3333333333333335
+Anýl Altan:1.5
+Serhat Kýlýç:3.0
+Özgürcan Çevik:1.1666666666666667
+Tuvana Türkay:2.2857142857142856
+Edip Tepeli:2.0
+Doðu Demirkol:1.5
+Evliya Aykan:2.0
+Banu Fotocan:2.0
+Caner Þahin:1.0
+Pelin Abay:1.0
+Sarp Bozkurt:1.0
+Perihan Savaþ:2.6
+Ýsmail Ege Þaþmaz:1.0
+Burak Yamantürk:1.25
+Yiðit Kirazcý:1.0
+Gökçe Eyüboðlu:1.5
+Erdal Küçükkömürcü:1.0
+Tülin Ece:1.0
+Onur Þirin:1.0
+Sahra Þaþ:1.5
+Þahin Irmak:1.3333333333333333
+Tuðçe Altuð:2.0
+Eren Vurdem:1.5
+Feyyaz Yiðit:4.0
+Kývanç Kýlýnç:4.0
+Ahmet Kürþat Öçalan:4.0
+Ümit Acar:1.0
+Wilma Elles:1.75
+Ayberk Yýlmaz:1.0
+Cahit Kaþýkçýlar:1.5
+Özlem Bölükbaþý:1.0
+Elit Ýþcan:1.0
+Sera Varol:1.0
+Taylan Meydan:1.0
+Semih Varol:1.0
+Özgür Balakar:1.0
+Atakan Özkaya:1.0
+Ecem Gümüþcü:1.0
+Melis Özçimen:1.0
+Yaren Güldiken:1.0
+Mustafa Avkýran:2.5
+Derya Alabora:1.6666666666666667
+Benian Dönmez:1.0
+Renan Bilek:1.0
+Leyla Feray:1.0
+Aras Aydýn:1.0
+Ýbrahim Büyükak:1.5
+Özgür Emre Yýldýrým:1.25
+Meral Çetinkaya:1.5
+Özgür Turhan:2.0
+Aleyna Tilki:1.0
+Cemal Can Canseven:1.0
+Öykü Karayel:1.2
+Yaðmur Tanrýsevsin:1.2
+Esra Bilgiç:2.25
+Celil Nalçakan:2.3333333333333335
+Cüneyt Mete:3.4
+Ahu Yaðtu:4.0
+Simge Selçuk:4.5
+Yiðit Koçak:4.0
+Su Burcu Yazgý Coþkun:2.5
+Onur Seyit Yaran:4.0
+Fadik Sevin Atasoy:2.3333333333333335
+Nilay Deniz:1.0
+Ebrar Alya Demirbilek:1.0
+Meltem Akçöl:1.0
+Erdem Yýlmaz:1.0
+Fýrat Tanýþ:2.0
+Ali Atay:1.8571428571428572
+Ezgi Asaroðlu:3.6666666666666665
+Müge Boz:2.6666666666666665
+Melis Birkan:1.8333333333333333
+Köksal Engür:2.25
+Ahmet Mümtaz Taylan:1.6
+Melike Ýpek Yalova:2.3333333333333335
+Hülya Avþar:1.5
+Mehmet Aslantuð:1.4285714285714286
+Deniz Çakýr:2.5714285714285716
+Korel Cezayirli:1.0
+Sinan Tuzcu:1.5
+Sarp Aydýnoðlu:1.0
+Þebnem Hassanisoughi:1.0
+Mustafa Kýrantepe:1.0
+Su Kutlu:1.2
+Can Sipahi:2.0
+Engin Hepileri:1.4285714285714286
+Rocco Siffredi:2.0
+Barýþ Kýralioðlu:2.0
+Samet Kaan Kuyucu:1.0
+Baran Bölükbaþý:1.0
+Ozan Güçlü:1.0
+Ece Yaþar:1.0
+Fýrat Çelik:1.0
+Ahmet Rýfat Þungar:1.0
+Defne Kayalar:1.0
+Nehir Erdoðan:1.375
+Ayçin Ýnci:1.6
+Emin Olcay:1.0
+Özcan Deniz:1.6666666666666667
+Feyza Aktan:1.0
+Ozan Aðaç:1.0
+Açelya Topaloðlu:1.3333333333333333
+Emre Altuð:1.6666666666666667
+Lale Baþar:2.0
+Nergis Kumbasar:1.8
+Hande Katipoðlu:1.3333333333333333
+Bülent Seyran:2.0
+Ogeday Giriþken:1.5
+Funda Eryiðit:1.8333333333333333
+Devrim Yakut:1.0
+Muhammet Uzuner:1.0
+Ceyhun Mengiroðlu:2.5
+Serdar Yeðin:2.5
+Gürkan Uygun:3.2222222222222223
+Turgut Tunçalp:4.0
+Tuncer Salman:4.0
+Ezgi Þenler:2.0
+Nihat Altýnkaya:2.4
+Levent Can:4.0
+Mehmet Usta:2.5
+Ahmet Uður Say:4.0
+Alperen Efe Esmer:2.0
+Zeynep Doðangün:2.0
+Aslýhan Güner:2.0
+Ekin Koç:1.2857142857142858
+Diren Polatoðullarý:1.0
+Civan Canova:1.0
+Nursel Köse:1.5
+Kadir Çermik:1.0
+Aytaç Uþun:1.0
+Þafak Pekdemir:3.3333333333333335
+Kaan Urgancýoðlu:1.625
+Mehmet Yýlmaz Ak:2.5
+Aslý Bekiroðlu:1.5
+Ece Dizdar:1.0
+Devin Özgür Çýnar:1.6666666666666667
+Begüm Topçu:1.0
+Merve Üçer:1.0
+Melis Yýldýran:1.0
+Eslem Akar:1.75
+Bekir Aksoy:2.5
+Kenan Ýmirzalýoðlu:2.2857142857142856
+Demet Evgar:2.4285714285714284
+Zuhal Olcay:1.1666666666666667
+Halit Ergenç:2.6666666666666665
+Ozan Güven:2.0
+Onur Saylak:1.25
+Biran Damla Yýlmaz:2.75
+Can Yaman:1.0
+Pamir Pekin:1.0
+Fatih Artman:1.4
+Tülin Özen:1.4444444444444444
+Müge Bayramoðlu:2.0
+Bora Cengiz:2.0
+Halil Ýbrahim Ceyhan:4.0
+Nana Stambolishvili:4.0
+Rasim Öztekin:3.0
+Ayþe Tolga:5.5
+Þoray Uzun:5.5
+Yasemin Çonka:1.0
+Berat Yenilmez:1.0
+Begüm Öner:1.0
+Ceyhun Fersoy:5.5
+Merve Sevin:1.0
+Serap Matyaþ:1.0
+Bengi Ýdil Uras:1.0
+Ýlayda Çevik:2.5
+Levent Ülgen:1.9
+Ulviye Karaca:4.5
+Elif Doðan:1.0
+Bahar Süer:2.0
+Zehra Yýlmaz:1.0
+Kemal Uçar:1.4
+Beyti Engin:1.0
+Berk Atan:1.6
+Cihat Süvarioðlu:4.0
+Semih Ertürk:4.0
+Ferdi Sancar:1.75
+Erdal Cindoruk:2.75
+Ecem Özkaya:4.0
+Ali Düþenkalkar:4.0
+Algý Eke:1.6
+Selen Domaç:1.0
+Aleyna Solaker:2.0
+Uðraþ Güneþ:1.0
+Ali Rýza Tanyeli:1.0
+Ayþe Melike Çerçi:1.3333333333333333
+Bülent Emrah Parlak:1.25
+Ceren Taþçý:1.0
+Gülçin Kültür Þahin:2.0
+Tamer Levent:1.0
+Farah Zeynep Abdullah:1.6666666666666667
+Melisa Þenolsun:1.6
+Aslýhan Gürbüz:1.8
+Ahsen Eroðlu:1.0
+Ayþenil Þamlýoðlu:2.0
+Ýlker Kaleli:1.4
+Þerif Erol:1.0
+Ýlker Aksum:1.375
+Olgun Þimþek:3.5
+Cem Yiðit Üzümoðlu:2.0
+Tommaso Basili:2.0
+Daniel Nuta:2.0
+Cansu Dere:1.7142857142857142
+Nejat Ýþler:2.0
+Boran Kuzum:1.5
+Furkan Murat:6.0
+UðurOnur Akbay:6.0
+Hakan Erkuran:6.0
+Volkan Ölçen:6.0
+Kerem Ali Yengüner:6.0
+Burak Þahin:6.0
+Burak Akyüz:6.0
+Tolga Mendi:2.0
+Defne Samyeli:4.0
+Önder Açýkbaþ:1.0
+Zihni Göktay:1.3333333333333333
+Zuhal Yalçýn:1.0
+Levent Akkök:1.0
+Ceylan Yýlmaz:1.0
+Ýsa Telci:1.0
+Ayça Bildik:1.0
+Mustafa Çelik:1.0
+Buse Narcý:1.0
+Gülten Çelik:1.0
+Yaþar Mahmutoðlu:1.0
+Sude Güler:1.0
+Güven Kýraç:1.4
+Ýpek Tuzcuoðlu:1.0
+Erkan Can:2.111111111111111
+Ece Çeþmioðlu:1.2
+Arzu Yanardað:1.0
+Mürþit Aða Bað:1.0
+Ayþen Ýnci:1.3333333333333333
+Okan Yiðit:1.0
+Leyla Lydia Tuðutlu:1.0
+Ýlker Kýzmaz:1.0
+Ali Gözüþirin:1.0
+Pýnar Töre:1.0
+Bülent Alkýþ:1.25
+Cem Davran:1.8
+Ezel Akay:1.0
+Ceren Yýlmaz:2.0
+Yaðýz Can Konyalý:1.5
+Eda Þölenci:1.0
+Beren Saat:2.142857142857143
+Kerem Bursin:6.0
+Berke Üzrek:1.5
+Eray Eserol:1.0
+Hakan Hatipoðlu:2.0
+Ege Aydan:1.5
+Ayça Eren:1.6666666666666667
+Ahmet Uðurlu:2.0
+Mine Tugay:1.1666666666666667
+Gökhan Yýkýlkan:1.0
+Ertuðrul Þakar:4.0
+Lavinya Ünlüer:1.0
+Elçin Afacan:2.0
+Ýrem Sak:2.0
+Burcu Tuna:1.5
+Nihan Büyükaðaç:1.0
+Rýza Akýn:1.0
+Bedia Ener:2.3333333333333335
+Merve Çaðýran:1.0
+Ceyda Ateþ Toplusoy:1.0
+Kenan Acar:1.0
+Mehmet Emin Güney:1.0
+Baran Can Eraslan:1.0
+Murat Kekilli:1.0
+Jale Aylanç:1.0
+Mehmet Ali Nuroðlu:1.5714285714285714
+Almila AdaMenderes SamancýlarNursel Köse:1.0
+Okan Yalabýk:1.75
+Akýn Akýnöz:3.0
+Ferit Kaya:1.0
+Özlem Güveli:1.0
+Arif Nazým:1.0
+Alara Turan:2.0
+Berkay Hardal:1.5
+Berrak Tüzünataç:1.4
+Engin Þenkan:1.6666666666666667
+Seda Akman:1.4285714285714286
+Burak Özçivit:2.0
+Yýldýz Çaðrý Atiksoy:1.8333333333333333
+Özge Törer:5.0
+Çaðrý Þensoy:5.0
+Yiðit Uçan:5.0
+Nurettin Sönmez:5.0
+Ragýp Savaþ:2.6666666666666665
+Saruhan Hünel:4.0
+Saygýn Soysal:2.0
+Ýpek Karapýnar:1.8
+Ýbrahim Kendirci:2.3333333333333335
+Oðuzhan Kayra Koç:1.0
+Gonca Yakut:1.5
+Volkan Murat:1.0
+Benli:1.0
+Didem Özkavukçu:1.0
+Ece Uslu:2.125
+Anýl Tetik:1.0
+Alpay Kemal Atalan:1.0
+Tugay Bahþi:1.0
+Arda Anarat:1.0
+Atakan Yýlmaz:1.0
+Kaan Altay Köprülü:1.0
+Aliye Uzunataðan:1.8
+Altan Erkek:1.0
+liÝnanç Konukçu:1.0
+Emre Mete Sönmez:1.0
+Ali Yasin Özegemen:1.0
+Özgür Özberk:1.0
+Elif Erol:1.0
+Melis Cemre Çýnar:1.0
+Setenay Süer:4.0
+Can Verel:4.0
+Yaðmur Þahbazova:4.0
+Cansu Tuman:4.0
+Evrim Solmaz:2.3333333333333335
+Gülcan Arslan:1.0
+Gözde Mutluer:1.0
+SinaÖzer:1.0
+Cihan Þimþek:1.0
+Hakan Kurtaþ:1.2
+Gökçe Yanardað:1.0
+Sermet Yeþil:1.0
+Ýnan Konukçu:1.0
+Seda Gücen:1.0
+Özlem Yýlmaz:1.2857142857142858
+Bartu Küçükçaðlayan:1.0
+Gökberk Yýldýrým:4.0
+Eda Nur Gülbudak:4.0
+Cenay Turksever:4.0
+Hazal Eylül Çelik:4.0
+Sanem Çelik:2.6666666666666665
+Hülya Darcan:3.6666666666666665
+Serpil Tamur:4.0
+Ahu Türkpençe:1.5
+Melis Hacic:1.0
+Fýrat Doðruloðlu:1.25
+Armaðan Oðuz:1.0
+Bedii Akýn:1.0
+Gürol Tonbul:1.0
+Bülent Emin Yarar:2.25
+BerrakTüzünataç:1.0
+Lale Mansur:2.0
+Gün Koper:1.0
+Gözde Türkpençe:1.0
+Can Gox:1.0
+Uður Çavuþoðlu:1.3333333333333333
+Bestemsu Özdemir:1.0
+Seray Gözler:1.3333333333333333
+Ebru Aykaç:1.3333333333333333
+Ebru Cündübeyoðlu:1.3333333333333333
+Þerif Sezer:1.6666666666666667
+Tarýk Pabuçcuoðlu:1.0
+Ece Sükan:1.0
+Aleyna Özgeçen:1.0
+Emir Özyakýþýr:1.0
+Onur Bilge:1.0
+Sezgi Sena Akay:1.0
+Barýþ Arda Hacýoðlu:1.0
+Emir Berke Zincidi:1.3333333333333333
+Burak Hakký:1.5454545454545454
+Tuðba Çýnar:1.0
+Atilla Saral:1.5
+Laçin Ceylan:1.0
+Gülse Birsel:4.333333333333333
+Alexandra Nikiforova:1.0
+Emel Çölgeçen:1.0
+Burcu Kara:1.2857142857142858
+Selen Uçer:1.6666666666666667
+Pelin Öztekin:1.0
+Emre Karayel:3.3333333333333335
+Çaðla Demir:1.0
+Necmi Yapýcý:2.6666666666666665
+Berkay Tulumbacý:1.0
+Zeynep Gülmez:1.5
+Ushan Çakýr:1.5
+Serdar Gökhan:2.0
+Oya Baþar:1.75
+Didem Balçýn:2.25
+Toygan Avanoðlu:1.0
+Zerrin Tekindor:1.5
+Murat Aygen:2.6666666666666665
+Gonca Vuslateri:1.0
+Mustafa Üstündað:2.0
+Bige Önal:1.0
+Özgür Ege Nalcý:3.0
+Yusuf Gökhan Atalay:2.0
+Burak Kut:2.0
+Burcu Altýn:2.0
+Alara Kardak:3.0
+Þevval Sam:2.25
+Eda Ece:3.25
+Nebahat Çehre:1.8571428571428572
+Doðaç Yýldýz:1.0
+Belçim Bilgin:1.3333333333333333
+Zerrin Sümer:1.3333333333333333
+Hakan Salýnmýþ:1.0
+Solmaz Çiros:1.0
+Kaan Güvenilir:1.0
+Alper Saldýran:1.5
+Mehmet Atay:1.6666666666666667
+Taner Taneri:1.0
+Hande Subaþý:1.0
+Cankat Aydos:1.0
+Esra Kýzýldoðan:1.0
+Itýr Esen:1.25
+Mehmet Korhan Fýrat:2.0
+Mehmetcan Mincinozlu:1.6666666666666667
+Nejat Uygur:2.0
+Esra Ronabar:1.0
+Serhat Özcan:1.0
+Menderes Samancýlar:2.0
+Özkan Uður:2.0
+Pýnar Altuð:1.5714285714285714
+Zeyno Günenç:1.75
+Volkan Severcan:1.8333333333333333
+Mehmet Baran Erdoðan:2.0
+Buse Sinem Ýren:2.0
+Öykü Güven:2.5
+Alp Eren Khamis:2.0
+Gülin Ýyigün:2.0
+Aras Bulut Ýynemli:2.3333333333333335
+Nur Sürer:2.0
+Mehmet Küçük:1.5
+Ayþe Çiðdem Batur:1.0
+Çaðla Þikel:1.0
+Aliþan:3.0
+Ersin Korkut:1.6666666666666667
+Zeynep Eronat:2.0
+Esengül Aypek:1.0
+Yasemin Karataþ:1.0
+Metehan Þahiner:1.0
+Murat Okur:1.0
+Yasin Eryýlmaz:1.0
+Ozan Ali Korkut:1.0
+Beytullah Pekok:1.0
+Selin Iþýk:1.0
+Kerem Baydar:1.0
+Elif Melda Yýlmaz:1.0
+Elif Göçkýran:1.0
+Baþak Vural:1.0
+Sedef Avcý:1.375
+Yeþim Salkým:1.3333333333333333
+Nail Kýrmýzýgül:1.5
+Mahir Günþiray:1.5
+Tolga Güleç:1.5
+Tuðba Melis Türk:2.0
+Ecem Baltacý:2.0
+Tülay Günal:1.5
+Betül Akdeniz:1.0
+Hazal Ergüçlü:1.0
+Bülent Çolak:1.0
+Bahtiyar Engin:1.0
+Ýbrahim Selim:1.0
+Gökhan Kýraç:1.0
+Merve Boluður:1.6666666666666667
+Amine Gülþe:2.0
+Oktay Gürsoy:1.0
+Çaðkan Çulha:2.0
+Mert Öcal:1.5
+Musab Ekici:2.0
+Osman Wöber:1.5
+Erkan Sever:3.0
+Ayça Varlýer:2.0
+Beyazýt Gülercan:2.3333333333333335
+Melis Tüzüngüç:1.3333333333333333
+Ümit Ýbrahim Kantarcýlar:1.6666666666666667
+Ayten Gökçer:1.0
+Fatih Al:1.0
+Sanem Yeles:1.0
+Sinan Çalýþkanoðlu:1.8
+Filiz Taçbaþ:5.5
+Cengiz Küçükayvaz:3.0
+Ýpek Tenolcay:2.5
+Onur Dilber:1.0
+Asena Tuðal:1.25
+Ayça Ayþin:1.0
+Turan Cemal Toktaþ:1.0
+Gonca Sarýyýldýz:1.0
+Hakan Bilgin:1.0
+Ruhi Sarý:1.0
+Seren Deniz Yalçýn:1.0
+Zeki Eker:1.0
+Özlem Conker:2.6666666666666665
+Selen Öztürk:3.0
+Funda Güray:1.0
+Murat Serezli:4.0
+Yýldýz ÇaðrýAtiksoy:5.0
+Fýrat Albayram:5.0
+Burç Kümbetlioðlu:5.0
+Merve Anlaðan:1.5
+Yunus Günçe:1.5
+Fulya Zenginer:1.3333333333333333
+Duygu Yetiþ:1.4
+Serhan Yavaþ:1.5
+Sibel Can:1.0
+Begüm Kütük:1.0
+Mehmet Bozdoðan:1.0
+Seren Þirince:1.0
+Baþak Parlak:1.1428571428571428
+Þafak Sezer:1.375
+Mehmet Ali Erbil:1.8333333333333333
+Hasibe Eren:2.5
+Bade Ýþçil:2.0
+Ali Ýl:1.0
+Sinan Albayrak:1.8
+Hasan Kaçan:1.5
+Kadir Çöpdemir:1.8
+Deniz Durmaz:3.0
+Gülay Baltacý:1.0
+Can Bonomo:1.0
+Cihat Tamer:3.25
+Aslý Melisa Uzun:1.0
+Hayal Köseoðlu:1.0
+Emrah:2.25
+Burcu Kýratlý:3.0
+Kenan Bal:2.0
+Ayþegül Ünsal:3.0
+Iþýl Yücesoy:2.3333333333333335
+Bülten Inal:1.0
+Rüveyda Öksüz:1.0
+Hakan Yufkacýgil:1.0
+Dila Danýþman:1.0
+Murat Ceylan:1.0
+Meryem Uzerli:2.5
+Yýlmaz Kunt:1.0
+Yeliz Kuvancý:1.5
+Kanbolat Görkem Arslan:1.0
+Nurseli Ýdiz:1.4
+Serenay Aktaþ:1.0
+Naz Elmas:1.8571428571428572
+Mine Þenhuy Teber:1.0
+Açelya Devrim Yýlhan:1.0
+Burak Tamdoðan:1.5
+Baþak Güröz:1.0
+Ahmet Olgun Sünear:1.0
+Gurur Aydoðan:1.0
+Okday Korunan:1.0
+Müge Mertson:1.0
+Ebru Aytemur:1.0
+Mustafa Açýlan:1.0
+Hayati Akbaþ:1.0
+Saadet Iþýl Aksoy:1.5
+Tolga Çevik:1.5
+Özer Atik:1.5
+Fýrat Doðu Parlak:1.5
+Nilay Duru:1.0
+Gürgen Öz:1.0
+Merve Oflaz:1.0
+Ýnci Türkay:2.6666666666666665
+Giovanni Arvaneh:1.0
+Sevtap Özaltun:1.5
+Savaþ Satýþ:6.0
+Özgür Meriç:6.0
+Onur Akbay:6.0
+Gökhan Diðicibaþý:6.0
+Bertan Uçar:6.0
+Nükhet Duru:1.0
+Erhan Yazýcýoðlu:1.0
+Mesut Yýlmaz:1.0
+Hande Kaptan:1.0
+Özge Özder:2.0
+Bergüzar Korel:2.25
+Serkan Kuru:1.0
+Ali Akdal:1.0
+Barýþ Küçükgüler:1.0
+Yusuf Güney:1.0
+Hayal Kahraman Özalp:1.5
+Gökcan Gökmen Kuru:1.0
+Ecem Okçular:1.0
+Onuryay Evrentan Atasalihi:1.0
+Selda Alkor:1.5
+Rüchan Çalýþkur:1.0
+Mehmet Esen:1.0
+Mehmet Can Mincinozlu:1.0
+Neriman Uður:1.75
+Dilara Aksüyek:1.0
+Sinem Kobal:2.0
+Ümit Yesin:3.6666666666666665
+Ayþegül Günay:3.0
+Hülya Gülþen:3.0
+Ýlknur Þaþmazer:1.0
+Türkan Kýlýç:1.3333333333333333
+Tekin Temel:1.0
+Meltem Baytok:1.0
+Ebru Uysal:1.0
+Mete Horozoðlu:1.5
+Suzan Kardeþ:1.0
+Deniz Oral:2.0
+Elif Sümbül Sert:1.0
+Gökhan Bekletenler:1.0
+Yýldýrým Gücük:1.0
+Sena Çakýr:1.0
+Bahar Karaoðlu:1.0
+Oðuzhan Koç:1.0
+Eser Yenenler:1.0
+Cezmi Baskýn:1.6666666666666667
+Ayþe Tunaboylu:1.5
+Berk Erçer:1.0
+Nadir Sarýbacak:1.0
+Emre Kýzýlýrmak:1.0
+Ozan Çobanoðlu:6.0
+Gürkan Günal:1.0
+Sercan Dede:1.0
+Doðan Akdoðan:2.0
+Özgün Bayraktar:2.0
+Alper Baytekin:2.0
+Bilal Çatalçekiç:1.5
+Dilþah Demir:2.0
+Elif Atakan:1.0
+Nilüfer Açýkalýn:1.0
+Luran Ahmeti:1.0
+Pelin Bölükbaþ:1.0
+Zeynep Müjde Akdeniz:1.0
+Semanur Uçar:1.0
+Ali Alper Türkan:1.0
+Mustafa Onur Akpýnar:1.0
+Sevinç Erol:1.0
+Emre Çaltýlý:1.0
+Murat Baþoðlu:1.0
+Tarýk Ünlüoðlu:2.8
+Ali Sürmeli:3.0
+Dilþad Çelebi:1.0
+Zeynep Özder:1.0
+Ali Baþar:1.25
+Efe Deprem:1.0
+Serdal Genç:1.0
+Burç Kumbetlioðlu:1.0
+Gamze Dar:1.0
+Þeyda Terzioðlu:1.0
+Murat Atik:1.0
+Oya Okar:5.5
+Ayça Erturan:1.0
+Sinan Eroðlu:1.0
+ Gökçe Bahadýr:1.0
+Fatih Kaçan:2.0
+Oya Unustasý:1.0
+Gülçin Santýrcýoðlu:1.5
+Orhan Kýlýç:1.0
+Sümeyra Koç:1.0
+Hazar Motan:3.0
+Çaðla Irmak:3.0
+Onur Büyüktopçu:2.0
+Anastasia Tsilimpiou:2.0
+Gökhan Keser:2.0
+Serkan Ercan:1.0
+Erkan Bektaþ:1.0
+Turgay Kantürk:1.0
+Elçin SanguÝ:1.0
+lker Kýzmaz:1.0
+Sacide Taþaner:1.0
+Yiðit Dikmen:1.0
+Cenk Ertan:1.0
+Nilay Cafer:1.0
+Buse Varol:1.0
+Arda Hacýoðlu:1.0
+Beste Kökdemir:1.0
+Çaðdaþ Onur Öztürk:1.0
+Tarýk Özcan Ündüz:1.0
+Rüçhan Çalýþkur:2.0
+Hazým Körmükçü:1.5
+Payidar Tüfekçioðlu:1.5
+Kemal Zeydan:1.0
+Serhan Ernak:1.0
+Duygu Keser:2.0
+Ozan Daðgez:2.0
+Yeþim Gül:2.0
+Orhan Aydýn:1.5
+Ayberk Aladar:2.0
+Gözde Kansu:1.6666666666666667
+Çagdas Onur Öztürk:1.0
+Ýnan Ulaþ Torun:1.0
+Emin Gürsoy:1.3333333333333333
+Ahmet Saraçoðlu:1.0
+Ünal Yeter:1.0
+Barýþ Baþar:1.0
+Zeynep Ekin Öner:1.0
+Eda Aydýnlý:1.0
+Deniz Gökçe Kayhan:1.0
+Gülin Ersoy:1.0
+Þevki Çepa:1.0
+Uður Polat:1.1666666666666667
+Þükran Ovalý:1.0
+Goncagül Sunar:3.5
+Paþhan Yýlmazel:1.0
+Servet Aksoy:1.0
+Hilal Çelenk:1.0
+Serdar Aksoy:1.0
+Alican Albayrak:1.0
+Yamaç Telli:1.0
+Gülen Karaman:1.5
+Canan Maktal:1.0
+Serdar Deniz:3.0
+Levent Öktem:3.0
+Berkehan Tüter:1.0
+Denise Capezza:1.0
+Volkan Çolpan:5.0
+Isabella Damla Güvenilir:5.0
+Hâzým Körmükçü:2.0
+Ali Ýpin:1.0
+Ýdil Fýrat:1.0
+Ýlker Ýnanoðlu:5.25
+Sinem Öztürk:2.5
+Nik Xhelilaj:1.0
+Devrim Evin:1.0
+Gizem Ayaz:1.0
+Jale Arýkan:1.0
+Engin Benli:2.0
+Ani Ýpekkaya:1.0
+Emin Gümüþkaya:1.0
+Samet Göksü:1.0
+Ozan Uygun:1.0
+Çaðlar Bade Türe:1.0
+Zeynep Sevi Yýlmaz:1.0
+Mesut Can Tomay:1.0
+Deniz Baysal:1.0
+Begüm Kütük Yaþaroðlu:2.0
+Gürbey Ýleri:2.0
+Murat Cemcir:1.2
+Umut Oðuz:2.3333333333333335
+Daðhan Külegeç:2.6666666666666665
+Selen Seyven:2.0
+Zeki Alasya:2.5
+Petek Dinçöz:1.5
+Erkan Þahin:1.0
+Lalizer Kemaloðlu:1.0
+Boðaç Aksoy:1.0
+Gökhan Þahin:1.0
+Filiz Ahmet:2.0
+Engin Alkan:2.0
+Suzan Aksoy:1.75
+Barýþ Yalçýn:1.5
+Ayþen Gruda:1.0
+Mert Kýlýç:3.0
+Bora Karakul:2.0
+Dilara Büyükbayraktar:2.0
+Okan Kemal Özkan:2.0
+Açalya Samyeli Danoðlu:1.0
+Gökçe Özyol:1.0
+Orhan Kanalp:2.0
+Mertcan Sevimli:2.0
+Yiðit Çakýr:2.0
+Çaðdaþ Tekin:2.0
+Elvan Boran:2.0
+Atilla Pakdemir:2.0
+Þener Savaþ:2.0
+Nebil Sayýn:1.5
+Yaðmur Ün:1.5
+Gözde Çýðacý:1.5
+Ýpek Bilgin:1.0
+Ayten Uncuoðlu:1.0
+Metin Çekmez:1.6
+Zeynep Aydemir:3.0
+Arda Öziri:3.0
+Ali Mert Yavuzcan:3.0
+Meltem Miraloðlu:1.5
+Erkam Aydar:1.0
+Suat Sungur:1.0
+Feyza Iþýk:1.0
+Kayhan Yýldýzoðlu:3.6666666666666665
+Bihter Özdemir Dinçel:1.0
+Kerem Kupacý:2.3333333333333335
+Erdem Baþ:1.0
+Gülhan Tekin:1.0
+Gökhan Özyol:1.0
+Ayça Damgacý:2.0
+Uður Serhan:2.0
+Bilge Þen:1.5
+Hikmet Körmükçü:1.5
+Gamze Karaduman:2.0
+Ferit Aktuð:2.0
+Ecem Çalýk:2.0
+Mert Kurdal:2.0
+Mutlu Güney:2.0
+Tülay Bursa:2.0
+Melis Mutluç:2.0
+Aybars Kartal Özson:2.0
+Mesut Özkeçeci:2.0
+Müjde Ar:1.0
+Berna Laçin:2.5
+Ýrem Altuð:1.5
+Nihal Menzil:1.3333333333333333
+Alara Uncu:1.0
+Alican Özakoðlu:1.0
+Dilek Demir:1.0
+Barýþ Hacýhan:1.0
+Efe Karaman:1.0
+Elif Merve Çolak:1.0
+Begüm Çetinkaya:1.0
+Sudenaz Akkoyun:1.0
+Leyla Köse:1.0
+Pelin Buse Gökçek:1.0
+Kaan Ürkmez:1.0
+Aydan Çakýr:1.0
+Mesut Yar:1.0
+Bala Atabek:2.0
+Umut Kurt:2.0
+Ozan Osmanpaþaoðlu:3.0
+Yusuf Akgün:1.75
+Fatih Koyunoðlu:2.0
+Meral Asiltürk:3.0
+Altan Gördüm:2.0
+Þemsi Ýnkaya:2.5
+Savaþ Zafer:1.0
+Erdal Tosun:1.0
+Seray Gözler Yeniay:1.0
+Turan Cihan Þimþek:1.0
+Pýnar Aydýn:1.0
+Tülin Oral:2.0
+Selçuk Yöntem:2.2222222222222223
+Hakan YIlmaz:1.0
+Yeliz Þar:1.0
+Tuluð Çizgen:1.0
+Sezai Aydýn:1.0
+Elif Verit:1.0
+Bülent Çelik:1.0
+Tuhi Sarý:1.0
+Furkan Kýzýlay:1.3333333333333333
+Bengisu Özenel:1.0
+Gamze Gözalan:1.0
+Arif Erkin Güzelbeyoðlu:1.5
+Beste Bereket:1.0
+Atýlay Uluýþýk:8.0
+Açelya Akkoyun:3.5
+Erkan Köse:1.0
+Derya Þensoy:1.0
+Serdar Özer:1.4
+Didem Reze:1.0
+Naci Taþdöðen:1.0
+Murat Daltaban:1.3333333333333333
+Damla Debre:1.25
+Osman Alkaþ:1.0
+Tayfun Eraslan:1.0
+Ferda Iþýl:1.0
+Songül Sevdik:1.0
+Sinan Demirer:1.0
+Sedef Akalýn:1.0
+Mehmet Akif Alakurt:1.8
+Gamze Özçelik:2.0
+Furkan Þentürk:1.0
+Orhan Güner:3.0
+Cem Kýlýç:1.2
+Tuðçe Kazaz:1.5
+Ali Sunal:1.6666666666666667
+Cahit Gök:1.0
+Nazan Diper:1.0
+Mehmet ÇevikPamir PekinGözde TürkpençeKamil Güler:1.0
+Burçin Abdullah:3.5
+Aykut Taþkýn:1.0
+Arzu Oruç:1.0
+Barýþ Çelikkol:1.5
+Emre Büyükpýnar:1.0
+Ferzan Hekimoðlu:1.0
+Melisa Toros:1.0
+Tuðçe Kurþunluoðlu:1.0
+Emre Taþkýran:1.0
+Cem Uçan:1.0
+Rýdvan Aybars Düzey:1.0
+Melda Arat:2.0
+Yavuz Bingöl:2.3333333333333335
+Çaðla Þimþek:2.0
+Gözde Mukavelat:3.0
+Orhan Þimþek:3.0
+Bengi Öztürk Akkaya:3.0
+Arda Esen:2.0
+Ufuk Þen:3.0
+Sema Aybars:3.0
+Ali Çakalgöz:3.0
+Arif Selçuk:3.0
+Devrim Atmaca:3.0
+Özgü Namal:2.0
+Alper Kul:1.5
+Mazhar Alanson:1.5
+Bertan Ceylan:2.0
+Murat Eken:1.0
+Merve Erdoðan:1.0
+Zuhal Gencer Erkaya:1.0
+Osman Soykut:2.0
+Yücel Erten:1.0
+Mehemt Ulay:1.0
+Özlem Çakar:1.0
+Atilla Þendil:1.0
+Fýrat Altunmeþe:1.0
+Yeliz Akkaya:1.0
+Bülent Kayabaþ:1.0
+Ezgi Aþaroðlu:1.0
+Melike Emiroðlu:1.0
+Ebru Þancý:1.0
+:1.6
+Enise Ütük:1.0
+Burcu Binic:2.0
+iÝnan Ulaþ Torun:2.0
+Ahu Sungur:1.0
+Sedef Þahin:1.0
+Macit Koper:1.0
+Tamer Týraþoðlu:1.0
+Hümeyra Akbay:1.0
+Þükrü Türen:1.0
+Büþra Pekin:1.0
+Rana Cabbar:2.0
+Türkan Þoray:2.0
+Tolga Karel:3.3333333333333335
+Nergis Öztürk:2.0
+Hakký Ergök:2.0
+Sibel Taþcýoðlu:2.0
+Kerim Yaðcý:2.0
+Nihan Balyalý:2.0
+Perran Kutman:2.4
+Hare Sürel:1.0
+Doðukan Polat:1.0
+Cem Bender:1.0
+Nazlý Bulum:1.0
+Erdem Akakçe:1.0
+Ayçin Tuyun:1.0
+Zeynep Çiçekoðlu:1.0
+Evren Duyal:1.0
+Arda Karýþtýranoðlu:1.0
+Aslý Omað:1.0
+Yonca Cevher:2.0
+Emre Melemez:2.0
+Görkem Mertsöz:2.0
+Oya Aydoðan:1.5
+Barýþ Aytaç:1.0
+Levent Üzümcü:1.6
+Belma Canciðer:2.3333333333333335
+Baþak Sayan:1.0
+Çiçek Dilligil:2.5
+Duygu Þen:1.0
+Serhan Arslan:1.0
+Gamze Karaman:1.0
+Ömür Özdemir:1.0
+Ýlhan Þeþen:1.5
+Selin Demiratar:1.5714285714285714
+Ahmet Kutsi Karadoðan:2.0
+Güven Hokna:3.0
+Gökhan Mete:2.6666666666666665
+Müjdat Gezen:2.0
+Þebnem Sönmez:1.8
+Ýnanç Ömer Benlioðlu:4.0
+Baþak Zebil:4.0
+Sevinç Kumaþ:4.0
+Gökben Derviþ:4.0
+Sadi Celil Cengiz:1.0
+Sedat Mert:1.0
+Mehmet Feim Mehmedof:1.0
+Tugay Mercan:1.0
+Ahmet Mekin:1.0
+Ayta Sözeri:1.0
+Ceren Soylu:1.0
+Mustafa Uzunyýlmaz:1.0
+Ýdil Yener:1.0
+Tuðçe Akiþ:1.0
+Kenan Ece:1.0
+Ebru Akel:2.5
+Larissa Gacamer:1.0
+Devrim Yalçýn:1.0
+Bahar Kerimoðlu:1.0
+Emrah Girgin:1.0
+Reha Yeprem:3.0
+Seray Sever:1.6666666666666667
+Deniz Alnýtemiz:1.0
+Ali Yoðurtçuoðlu:1.0
+Arzu Oþ:1.0
+Ali Çatalbaþ:1.0
+Ýlker Ayrýk:3.75
+Zeynep Sever:10.0
+Yasemin Baþtan:10.0
+Burak Saðyaþar:1.0
+Hakan Ýlçin:1.0
+Mert Asker:1.0
+Þevki Özcan:1.0
+Bülent Ergün:1.0
+Merve Altýnkaya:1.0
+Hande Dane:1.0
+Hüseyin Karaca:1.0
+Peker Açýkalýn:1.0
+Özge Ulusoy:1.0
+Veysel Diker:2.0
+Yonca Oskay:1.0
+Haki Biçici:1.0
+Maral Üner:1.0
+Ahmet Tansu Taþanlar:1.0
+Füsun Demirel:2.3333333333333335
+Beyazýt Öztürk:3.0
+Hüseyin Avni:4.0
+Danyal:4.0
+Ayda Aksel:4.0
+Mahir Ýpek:2.5
+Gözde Okur:4.0
+Kemal Kuruçay:4.0
+Ferdi Akarnur:2.5
+Evrim Akýn:2.5
+Metin Yýldýz:2.0
+Ececan Gümeci:2.0
+Hamdi Kahraman:2.0
+Elvin Levinler:2.0
+Birsu Demir:2.0
+Feride Çetin:1.25
+Hülya Þen:1.5
+Selda Özer:1.0
+Mehmet Polat:1.0
+Hüseyin Soysalan:1.0
+Zuhal Topal:2.7142857142857144
+Ýskender Baðcýlar:1.0
+Nurcan Eren:1.0
+Füruzan Asena Ongan:1.0
+Damla Cercisoðlu:1.0
+Büþra Ayaydýn:1.0
+Emre Özcan:1.0
+Ceyhun Sevilmiþ:2.0
+Erdal Akýncý:2.0
+Fatih Özkan:2.0
+Berivan Karaman:2.0
+Mehmet Çelik:2.0
+Fatma Toptaþ:2.0
+Mustafa Sandal:2.0
+Çetin Altay:1.5
+Nusret Þenay:8.0
+Gaye Turgut Evin:8.0
+Mert Altýnýþýk:8.0
+Iþýl Keskin:1.0
+Gökay Müftüoðlu:1.0
+Burçin Bilim:1.0
+Alp Kadýoðlu:1.0
+Didem Güçlü:1.0
+Burcu Esmersoy:1.0
+Eda Özerkan:2.0
+Lila Gürmen:2.0
+Haldun Boysan:1.5
+Þafak Pakdemir:2.0
+Yavuz Çetin:2.0
+Osman Akça:2.0
+Eser Karabil:2.0
+Beyza Þekerci:2.0
+Özgün Aydýn:1.0
+Þeyma Korkmaz:1.0
+Kadir Ýnanýr:1.1428571428571428
+Sermiyan Midyat:1.3333333333333333
+Burcin Oraloðlu:1.0
+Gökhan Mumcu:1.0
+Arda Kural:1.75
+Leyla Göksun:2.5
+Sefa Zengin:1.0
+Levent Sülün:2.0
+Barkýn Bayoðlu:1.0
+Cem Kurtoðlu:1.0
+Koray Kadiraða:1.0
+Umut Demirdelen:1.0
+Arsen Gürzap:1.5
+Zeynep Irgat:1.75
+Ece Özdikici:1.5
+Taner Ertürkler:3.0
+Görkem Yeltan:2.0
+Alma Terzic:1.0
+Ayþegül Aldinç:3.0
+Hazal Þenel:2.5
+Sezer Arýçay:3.0
+Bükre Atala:3.0
+Ahmet Yýldýrým:3.0
+Melih Selçuk:3.0
+Ümit Erlim:3.0
+Güneþ Zavrak:3.0
+Turan Özdemir:3.0
+Didem Ýnselel:1.5
+Miraç Eronat:1.6666666666666667
+Batuhan Karacakaya:2.0
+Aslý Bayram:1.0
+Þahap Sayýlgan:4.5
+Defne Joy Foster:3.5
+Nevra Serezli:2.5
+Ebru Karanfilci:2.6666666666666665
+Pýnar Dikici:1.0
+Cansel Elcin:1.0
+Emrah Elçiboða:2.0
+Yusuf Atala:2.0
+Betül Þahin:1.5
+Yeþim Büber:2.6666666666666665
+Tomris Ýncer:2.5
+Mine Tugay  :3.0
+Ahmet Gülhan:1.5
+Türkü Turan:1.0
+Ünal Silver:1.0
+Akýn Saatçi:1.0
+Tatsyana Tsvikeviç:1.0
+Asuman Çakýr:3.0
+Gözde Baþaran:3.0
+Ýskender Altýn:3.0
+Eren Özyalçýn:3.0
+Fatih Dönmez:3.0
+Burak Demir:3.0
+Oktay Dener:1.0
+Altan Karýndaþ:2.5
+Nihan Okutucu:1.0
+Ahmet Yenilmez:1.75
+Turgay Tanülkü:1.0
+Gülþah Þahin:1.3333333333333333
+Sevil Atasoy:3.0
+Erdi Bolat:1.0
+Sezgi Mengi:1.0
+Ayþenur Yazýcý:1.0
+Sevim Gelenbe:1.0
+Emina Sandal:4.0
+Ülkü Duru:1.0
+Suna Selen:1.0
+Dilara Büyük:4.0
+Ayþegül Atik:3.0
+Pýnar Öðün:1.0
+Haluk Piyes:1.0
+Ümit Kantarcilar:2.0
+Sermin Hürmeriç:2.0
+Burak Davutoðlu:1.75
+Ayberk Atilla:1.0
+Fatma Girik:1.5
+Sümer Tilmaç:1.0
+Mahir Güneþiray:1.0
+Türkü Hazer:2.0
+Erdal Bilingen:2.0
+Meral Okay:2.0
+Berfu Öngören:2.0
+Saygýn Soysal :1.0
+Begüm Topçu Turay:7.0
+Cantuð Turay:7.0
+Begüm Þahin:1.0
+Ahmet Rýfat Sungar:1.0
+Leyla Lydia Tugutlu:1.0
+Tuncel Kurtiz:1.5
+Mine Teber:3.0
+Kamil Güler:2.0
+Mehmet Çevik:2.0
+Durul Bazan:2.0
+Altan Günbay:2.0
+Fikter Kuþkan:1.0
+Hande Demirdoðan:1.0
+Cemal Toktai:1.0
+Mert Fýrat Erkan:2.0
+Baþak Köklükaya:1.5
+Hakan Balamir:1.0
+Devrim Nas:2.0
+Gaye Gürsel:5.5
+Soydan Soydaþ:1.0
+Ayhan Iþýk:1.0
+Filiz Akýn:1.0
+Hümeyra Avni Yalçýn:2.0
+Metin Belgin:1.5
+Metin Akpýnar:4.0
+Nilgün Kasapbaþoðlu:4.0
+Selçuk Aydemir:1.0
+Ceren Hindistan:2.5
+Deniz Arna:4.0
+Ýsmail Hakký Ürün:4.0
+Gerçek Saðlar:2.3333333333333335
+Levent Yýlmaz:1.0
+Sinem Öztufan:1.6666666666666667
+Faik Ergin:1.0
+Orçun Kpatan:1.0
+Ferdi Kurtuldu:1.0
+Ýsmail Ýncekara:1.0
+Meltem Parlak:1.0
+Dost Elver:1.0
+Ahmet Uðrulu:1.0
+Onur Þan:5.0
+Ayça Ýnci:4.0
+Meltem Cumbul:2.75
+Emel Sayýn:1.0
+Doða Rutkay:1.0
+Ayumi Takano:1.0
+Teoman Kumbaracýbaþý:1.0
+Selim Gülgören:1.0
+Gülden Dudarýk:1.0
+Yasemin Ergene:1.5
+Ýsrafil Köse:1.0
+Tilbe Saran:1.0
+Onur Ünsal:1.5
+Þahika Koldemir:1.0
+Servet Pandur:1.0
+Bülent Ýþbilen:1.0
+Oktay Gürsoy :2.0
+Dilek Serbest:1.0
+Murat Balcý:1.0
+Kadir Kandemir:1.0
+Rahman Görede:1.0
+Alp Sunaoðlu:1.0
+Yusuf Ömer Sýnav:2.0
+Ayþegül Ýþsever:2.0
+Ebru Kocaaða:1.3333333333333333
+Murat Soydan:1.5
+Neþe Karaböcek:1.0
+Zeynep Özkaya:1.0
+Akçahan Akça:1.0
+Defne Yalnýz:1.5
+Oðuz Oktay:1.5
+Yýldýz Çaðýr Atiksoy:1.0
+Yeliz Doðramacýlar:1.0
+Merve Sevi:1.0
+Seda Güven:1.0
+Hakan Ural:1.0
+Nihat Nikerel:1.0
+Saadet Iþýl:1.0
+Arif Erkin:2.0
+Gökhan Soylu:1.0
+Gökdeniz Tüzün:1.0
+Sinan Sümer:1.5
+Nazlý Ceren Argon:1.0
+Cüneyt Arkýn:2.0
+Tolga Savacý:1.0
+Meral Orhonsay:1.5
+Bahadýr Tok:1.0
+Meltem Ören:3.6666666666666665
+Fatma Belgen:3.0
+Duygu Erokan:1.0
+Buket Arslan:1.0
+Zeynep Evrim Aydýn:1.0
+Ferdi Tayfur:1.5
+Billur Yazgan:1.0
+Sevil Üstekin:1.5
+Ragga Oktay:1.0
+Erhan Emre:1.0
+Zeynep Beþerler:1.0
+Aliona Bozbey:1.0
+Atilla Arcan:1.0
+Ruhsar Gültekin:1.0
+Pulsar Von Juliet:1.0
+Ayberk Koçar:1.0
+Buket Dereoðlu:3.0
+Kayra Þenocak:2.3333333333333335
+Ecem Uzun:1.0
+Emel Müftüoðlu:1.0
+Murat Kubilay:1.0
+Yýlmaz Köksal:1.0
+Aydan Þener:1.0
+Neslihan Acar:4.5
+Ýpek Çeken:8.0
+Pýnar Sesveren:8.0
+Gürsan Piri Onurlu:8.0
+Osman Karakoç:8.0
+Ayhan Kavas:1.3333333333333333
+Melih Ekener:2.0
+Polat Bilgin:2.0
+Tanju Tuncel:2.0
+Emel Göksu:6.0
+Bülent Çetinaslan:3.5
+Barýþ Atay Mengüllü:6.0
+Fýrat Çöloðlu:6.0
+Bahar Öztan:1.0
+Aslý Yýlmaz:1.5
+Atýlgan Gümüþ:1.0
+Okan Tangücü:1.0
+Tan Saðtürk:3.0
+Alpay Atalan:3.0
+Fatoþ Kabasakal:3.0
+Reyhan Asena Keskinci:3.0
+Ege Tanman:3.0
+Taylan Güner:1.0
+Özge Bent:1.0
+Gökhan Tepe:2.0
+Ýncilay Þahin:2.0
+Mustafa Jasar:3.0
+Janset:3.0
+Alev Oraloðlu:1.0
+Fatma Karanfil:1.0
+Seda Sayan:1.0
+Güliz Gençoðlu:1.0
+Ýpek Tanrýyar:1.0
+Enginay Gültekin:1.0
+Þebnem Özinal:1.0
+Kenan Iþýk:1.6666666666666667
+Yasemin Balýk:1.0
+Tuðba Koçak:1.0
+Lemi Filozof:1.0
+Aslý Aybars:1.0
+Ayþe Þule Bilgiç:1.0
+Tufan Kýraç:1.0
+Necla Nazýr:1.0
+Kaan Girgin:1.5
+Okan Patýrer:1.0
+Yasemin Hadivent:1.0
+Cemre Kemer:2.0
+Eren Bakýcý:2.0
+Gülçin Ergül:2.0
+Yasemin Yürük:2.0
+Hande Ataizi:3.0
+Tunca Aydoðan:1.0
+Tolga Çevik :3.0
+Necati Þaþmaz:7.0
+Cahit Kayaoðlu:10.0
+Erhan Ufak:10.0
+Çaðla Kubat:1.0
+Nusret Çetinel:5.5
+Fatih Dokgöz:1.0
+Serra Yýlmaz:3.0
+Yelda Reynaud:3.0
+Özlem Düvencioðlu:2.5
+Luk Piyes:1.0
+Þahin Çelik:1.0
+Doðuþ:1.0
+Mehtap Bayrý:1.0
+Tolga Futacý:1.0
+Ýpek Yalvacýoðlu:1.0
+Arzum Onan:1.0
+Bsete Bereket:1.0
+Savaþ Dinçel:5.0
+Gülsüm Kamu:1.0
+Ýsmet Üstekin:1.0
+Kaya Erdaþ:1.0
+Tuðçe Ersoy:1.0
+Selin Ýþcan:1.0
+Müjgan Koraltürk:4.0
+Süleyman Karadað:4.0
+Alp Kýrþan:1.0
+Berksan:1.0
+Bulut Aras:2.6666666666666665
+Gökhan Atalay:1.0
+Yýldýz Asyalý:1.0
+Melda Gür:1.0
+Nur Yazar:1.0
+Zerrin Epikmen:1.0
+Dilhan Aras:1.0
+Burak özçivit:1.0
+Atilla Ercan:1.0
+Öykü Serter:1.0
+Zafer Ergin:11.0
+Özgür Ozan:9.5
+Özlem Çýnar:18.0
+Serap Aksoy:1.0
+Tardu Flordun:2.0
+Ataç Arman:1.0
+Selim Erdoðan:1.0
+Yasemin Özilhan:4.0
+Melike Güner:2.5
+Tuðba Karaca:1.0
+Mühe Uyar:1.0
+Aygül Hiçyýlmaz:1.0
+Tuba Erdem:2.0
+Gülben Ergen:1.75
+Aytaç Arman:1.0
+Tolga Evren:2.0
+Asu Emre:1.0
+Mithat Erdemli:1.0
+Þebnem Gürsoy:1.0
+Ziya Kürküt:2.5
+Derya Baykal :1.0
+Uður Arslan:1.0
+Cem Kölemenoðlu:1.0
+Memet Ali Alabora:2.6666666666666665
+Toprak Saðlam:1.0
+Kurtuluþ Þakiraðaoðlu:1.0
+Eylem Yýldýz:1.0
+Pelinsu Pir:1.0
+Fethi Kantarcý:1.0
+Özlem Durmaz:1.0
+Nuri Gökaþan:1.0
+Müjder Ar:1.0
+Þahnaz Çakýralp:1.0
+Deniz Evrenol:1.0
+Deniz Gökçer:2.5
+Baþak Daþman:2.0
+Mahmut Cevher:1.0
+Engin Cezzar:1.0
+Ali Emre Ateþ:1.0
+Cansu Demirci:3.0
+Gizem Güven:3.0
+Dilara Kurtulmuþ:3.0
+Davut Güloðlu:2.0
+Gökhan Özen:1.0
+Halit Akçatepe:1.0
+Meral Kaplan:1.0
+Fatoþ Tez:3.0
+Mehmet Püsküllü:1.0
+Akasya Asýltürkmen:1.0
+Ýsmet Numanoðlu:1.0
+Abidin Yerebakan:1.0
+Erkan Pekbay:1.0
+Deniz Güngören:1.0
+Enes Atýþ:1.0
+Seçil Mutlu Yýldýz:1.0
+Çaðrý Atiksoy:1.0
+Atilla Olgaç:1.5
+Barýþ Akarsu:1.0
+Ayþe Kökçü:8.0
+Halil Ergün:4.5
+Seda Demir:5.0
+Bilgehan Birincioðlu:2.0
+Okan Selvi:3.0
+Ayça Mutlugil:3.0
+Nuray Uslu:3.0
+Gülden Güney:3.0
+Volkan Girgin:3.0
+Oðuz Galeli:2.0
+Ferdi Merter:2.0
+Anta Toros:2.0
+Keremcem Dürük:2.0
+Kuzey Vargýýn:2.0
+Gönen Bozbey:2.0
+Mahsun Kýrmýzýgül:2.0
+Gazanfer Özcan:6.0
+Hümeyra Müþfik Kenter:6.0
+Gönül Ülkü:6.0
+Ata Demirer:6.0
+Aþkýn Nur Yengi:1.0
+Mehmet Aslan:1.0
+Cemre Özer:1.0
+Raffaele Cedolini:1.0
+Selin Denizli:1.0
+Bora Sivri:2.0
+Hülya Uður:2.0
+Rýdvan Çelebi:2.0
+Cengiz Toraman:5.0
+Doðan Turan:5.0
+Beyhan Saran:10.0
+Meral Niron:10.0
+Ayþe Nil Þamlýoðlu:10.0
+Pervin Ünalp:10.0
+Jülide Kural:1.0
+Bahar Erdeniz:1.0
+Peri Mehtap Çiçek:4.0
+Baki Harputlu:4.0
+Nilgün Belgün:4.5
+Ýlkay Saran:2.0
+Taner Ergör:1.0
+Pamela Spence:1.0
+Çaðla Þýkel:2.5
+Suna Pekuysal:1.0
+Bartu Küçükçaðlayan  :1.0
+Kenan BalIþýl Yücesoy:1.0
+Þevval Baþpýnar:1.0
+Rüya Önal:1.0
+Ayþecan Tatari:1.0
+Ayþen Tekin:1.0
+Haldun Dormen:3.0
+Görkem Yletan:1.0
+Aykut Oray:1.0
+Hakarn Gerçek:1.0
+Hamdi Alkan:2.0
+Mehmet Ulay:2.0
+Yýlsu Sarper:2.0
+Zeynep Tokuþ:2.5
+Ali Sirmen:1.0
+Alp Öyken:2.0
+Kamran Usluer:1.0
+Bora Ayanoðlu:1.0
+Ekrem Bora:3.0
+Tarýk Pabuççuoðlu:4.0
+Ýsmet Gülsoy:1.0
+Aslý Orcan:1.0
+Ýsmet Erten:1.0
+Barýþ Koçak:1.0
+Erol Günaydýn:4.666666666666667
+Þener Þen:3.0
+Nedim Saban:3.0
+Taylan Erler:1.0
+Tomris Oðuzalp:2.0
+Derya Baykal:2.0
+Kazým Akþar:2.0
+Elif Tayhan:2.0
+Göksun Çam:2.0
+Burak Altay:2.0
+Ýpek Deðer:2.0
+Irmak Ünal:2.0
+Ekim Maðden:2.0
+Aylin Kontente:2.0
+Elif Akþar:2.0
+Ýstemihan Tuna:2.0
+Parkan Özturan:2.0
+Þensel Uykal:2.0
+Gamze Ýnci:2.0
+Gökçe Yurtsal:2.0
+Tuncay Gürel:2.0
+Tarýk Akan:2.0
+Engin Altan:2.0
+Berdan Mardini:2.0
+A. Yavuz Sepetçi:2.0
+Avni Yalçýn:2.0
+Mehmet Akan:8.5
+Ali Kýrca:2.0
+Fikret Hakan:2.0
+Ýhsan Bilsev:2.5
+Ece Erken:1.0
+Melda Bekcan:2.3333333333333335
+Esin Civangil:2.0
+Cem Özer:3.0
+Salih Kýrmýzý:5.0
+Yusuf Sezgin:5.0
+Kerem Atabeyoðlu:1.0
+Suzan Elif Kýlýnç:1.0
+Suavi Eren:2.0
+Þebnem Dilligil:2.0
+Onur Bayraktar:2.0
+Bengi Öztürk:2.0
+Kevork Türker:2.0
+Ebru Gediz:2.0
+Yalçýn Dümer:2.0
+Çolpan Ýlhan:3.0
+Neco:3.0
+Celal Kadri Kýnoðlu:3.0
+Sevinç Aktansel:2.5
+Sedat Kalkavan:3.0
+Sýdýka Þenkan:2.0
+Burçak Iþýmer:2.0
+Yýlmaz Gruda:3.0
+Levend Yýlmaz:2.0
+Betül Çobanoðlu:2.0
+Mustafa Alabora:3.5
+Tuncer Necmioðlu:3.0
+Kemal Okur:3.0
+Barýþ Erdi:3.0
+Hande Kazanova:3.0
+Saadet Gürses:3.0
+Ali Karagöz:3.0
+Yavuz Karakaþ:3.0
+Janset Paçal:2.0
+Zerrin Arbaþ:2.5
+Ahmet Uz:1.5
+Kaya Akarsu:1.0
+Haluk Kurtoðlu:1.0
+Hüdelfa Taþtekin:1.0
+Uður Kývýlcým:1.5
+Tuðba Özay:2.0
+Aysun Kayacý:2.0
+Özlem Savaþ:2.0
+Faruk Peker:2.0
+Tarýk Tarcan:2.0
+Karahan Çantay:2.0
+Levent Özdilek:2.0
+Sibel Gökçe:2.0
+Güneþ Berberoðlu:2.0
+Efgan Efekan:2.0
+Semra Dinçer:2.0
+Orçun Sonat:2.0
+Eþref Kolçak:3.3333333333333335
+Dilek Pakalýn:1.0
+Yavuz Topoyan:1.0
+Tibet Töre:1.0
+Arif Kilisli:5.0
+Arkýn Gelenbe:5.0
+Emine Ün :5.0
+Tulu Çizgen:5.0
+Selahattin Taþdöðen:4.5
+Ecem Kanun:2.0
+Sevinç Erbulak:4.0
+Ýsmet Ay:4.5
+Ýhsan Devrim:4.0
+Ercan Yazgan:15.0
+Oktay Sözbir:15.0
+Toprak Sergen:2.5
+Kaya Akkaya:1.0
+Kerim Afþar:1.0
+Mine Çayýroðlu:1.0
+Osman Yaðmurdereli:8.0
+Üstün Asutay:8.0
+Neriman Köksal:8.0
+Ýlhan Daner:8.0
+Yunus Bülbül:1.0
+Önder Açýkalýn:1.0
+Sezer Güvenirgil:1.0
+Çarli:2.0
+Ercan Diler:2.0
+Berrin Arýsoy:2.0
+Melodi Baðcý:2.0
+Okan Sanlýtop:2.0
+Yonca Evcimik:4.0
+Betül Arým:3.0
+Ayla Oranlý:3.0
+Bilal Yýkýlmaz:3.0
+Cengiz Sezici:3.0
+Erdoðan Akduman:3.0
+Zehra Alptürk:4.0
+Sevtap Çapan:4.0
+Yaðmur Kaþifoðlu:4.0
+Nur Kulakoðlu:3.0
+Esmeray:3.0
+Gökhan Eðilmezbaþ:3.0
+Kuzey Vargýn:2.5
+Ýbrahim Küçük:4.0
+Bülent Bilgiç:4.0
+Yasemin Koþal:4.0
+Nazan Ersan:4.0
+Selen Güzel:4.0
+Canan Kýlýç:4.0
+Günyol Bakoðlu:4.0
+Nurhan Yýlmaz:4.0
+Canan Akgül:4.0
+Merve Erdoðan :4.0
+Aydan Burhan:10.0
+Iþýk Aras:10.0
+Esra Akkaya:10.0
+Nedret Özbek:10.0
+Leman Çýdamlý:10.0
+Nilüfer Kurt:4.0
+Aykut Sözeri:4.0
+Hakan Tanfer:3.5
+Ýbrahim Erkal:2.0
+Melis Yamalýoðlu:2.0
+Süleyman Turan:2.0
+Engin Koç:2.0
+Canan Perver:2.0
+Deniz Eroðlu:2.0
+Yosi Mizrahi:2.0
+Engin Günay:2.0
+Þener Gezgen:2.0
+Zuhal Gencer:4.0
+Dilaver Uyanýk:4.0
+Mahperi Mertoðlu:4.0
+Aysun Metiner:4.0
+Almila Uluer:1.0
+Müge Ulusoy:1.0
+Yaprak Meral:1.0
+Cünet uzunlar:1.0
+Mutlu Polat:1.0
+mehmet tepe:1.0
+Yalçýn Menteþ:5.0
+Neslihan Yeldan:5.0
+Pelin Körmükçü:5.0
+Ümit Okur:5.0
+Dursun Ali Sarýoðlu:5.0
+Yýldýz Kaplan:5.0
+Betül Aþçýoðlu:6.0
+Seda Çetin:6.0
+Tunca Yönder:6.0
